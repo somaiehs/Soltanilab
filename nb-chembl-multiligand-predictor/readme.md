@@ -48,7 +48,7 @@ The tool was validated in a case study repurposing **25 DMARDs** for Alzheimer�
 
 ## 👥 Contributors
 
-- **Prof. Dr. Somaieh Soltani** – Principal Investigator  
+- **Dr. Somaieh Soltani** – Principal Investigator  
 - **Hadi Khalilpour** – MSc Researcher & Developer  
 - **Dr. Gerhard Wolber** – Scientific Advisor  
 
